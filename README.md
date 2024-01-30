@@ -1,17 +1,3 @@
-# Informations utile
-
-<p align="center">
-  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/chaun14/AlternativeApi-NodeJS-Server-lite.svg?style=for-the-badge" alt="MIT License"></a>
-  <a href="https://github.com/riflowth/AlternativeApi-NodeJS-Server-lite/releases"><img src="https://img.shields.io/github/release/chaun14/AlternativeApi-NodeJS-Server-lite.svg?style=for-the-badge" alt="Release"></a>
-  <a href="https://github.com/chaun14/AlternativeApi-NodeJS-Server-lite/releases"><img src="https://img.shields.io/github/downloads/chaun14/AlternativeApi-NodeJS-Server-lite/total.svg?style=for-the-badge" alt="Download"></a>
-  <a href="https://www.paypal.me/chaun14"><img src="https://img.shields.io/badge/-PayPal-%2300457C?logo=paypal&style=for-the-badge" alt="PayPal Donate"></a>
-  <a href="https://discord.gg/8suwuu"><img src="https://img.shields.io/discord/509814984801517611.svg?color=blue&label=discord&logo=discord&style=for-the-badge" alt="Join the chat"></a>
-
-</p>
----
-
-
-
 ## Trxyy's AlternativeApi NodeJS Server Lite
 
 Un serveur de téléchargement pour la librairie java de launcher minecraft **Alternative-Lib** [Repo ici](https://github.com/TrxyyDev/AlternativeAPI) de Trxyy
